@@ -14,3 +14,8 @@ Format FS=NTFS
 Assign
 Exit
 </pre>
+####Check Graphics & other property 
+<pre>
+In CMD Type
+dxdiag
+</pre>
